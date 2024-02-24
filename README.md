@@ -1,9 +1,9 @@
-### Công ty TNHH thiết bị công nghiệp Động Lực div
-Địa chỉ: Cầu Rế 2, QL10, Bắc Sơn, An Dương, Hải Phòng, Việt Nam
-Hotline: 0902091840 - 0854423358 - 0964032890
-Email: dongluc.industry@gmail.com
-Website: https://dongluchp.com
-MST: 02017717820
+### Công ty TNHH thiết bị công nghiệp Động Lực
+Địa chỉ: Cầu Rế 2, QL10, Bắc Sơn, An Dương, Hải Phòng, Việt Nam <div>
+Hotline: 0902091840 - 0854423358 - 0964032890 <div>
+Email: dongluc.industry@gmail.com <div>
+Website: https://dongluchp.com <div>
+MST: 02017717820 <div>
 
 <!--
 **Dongluchpvn/dongluchpvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
